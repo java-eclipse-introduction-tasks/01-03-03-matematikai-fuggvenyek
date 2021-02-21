@@ -13,5 +13,7 @@ Az eredményt két tizedes pontossággal jelenítse meg a magyar számformátumn
 ## Trigonometrikus területképlet (Trigonometric area formula project)
 A trigonometrikus területképlet egy tetszőleges háromszög területét két oldal hossza és a közrezárt szög szinusza segítségével fejezi ki:   
 ![Trigonomertikus területképet](https://wikimedia.org/api/rest_v1/media/math/render/svg/8978e4437539b2c91bd17aab0d8e9abccf658faa   "Trigonomertikus területképet")   
-Írjon programot a háromszög területének meghatározására, ha ismeri az „a” és „b” oldal hosszát és a közbezárt szöget fokban kifejezve!
+A képletben szereplő gamma szöget fokban megadva kérje be a felhasználótól! 
+
+Írjon programot a háromszög területének meghatározására, ha ismeri az „a” és „b” oldal hosszát és a közbezárt szöget fokban kifejezve! 
 Az eredményt két tizedes pontossággal jelenítse meg a magyar számformátumnak megfelelően!    
