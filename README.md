@@ -1,4 +1,4 @@
-# 01-03-03-math-expression
+# 01-04-02-math-expression
 Matematikai függvények a feladatok megoldásában.
 ## Egyenletes gyorsuló mozgás (Evenly accelerating motion project)
 Egyenletes gyorsuló mozgás esetén, ha a kezdősebesség nulla, akkor a megtett út az idő négyzetének és gyorsulás szorzatának a fele. Írjon programot amely meghatározza, hogy az autó álló állapotból mekkora utat tesz meg, ha tudjuk, menni idő alatt tette meg az utat, és tudjuk, mennyi volt az egyenletes gyorsulása!    
